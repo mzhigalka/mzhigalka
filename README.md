@@ -21,6 +21,6 @@ I'm Matvey, a Front-end Developer from Ukraine. I am ambitious and deeply intere
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about technology!
 
-## 🖥️ GitHub Stats
+## 🖥️ GitHub Stats 
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzhigalka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&border_color=58A6FF" />
