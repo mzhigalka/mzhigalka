@@ -21,7 +21,7 @@ I'm Matvey, a Front-end Developer from Ukraine. I am ambitious and deeply intere
 
 ## 💬 Let's Connect 
 
-Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about technology!
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about technology! 
 
 ## 🖥️ GitHub Stats 
 
