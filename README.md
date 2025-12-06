@@ -13,6 +13,6 @@
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about technology! 
 
-## 🖥️ GitHub Stats 
+## 🛠️ My Skills
  
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzhigalka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&border_color=58A6FF" />
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
