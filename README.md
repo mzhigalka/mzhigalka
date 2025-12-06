@@ -15,4 +15,4 @@ Feel free to reach out if you want to collaborate on a project, have any questio
 
 ## 🛠️ My Skills
  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)]
