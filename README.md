@@ -15,4 +15,4 @@ Feel free to reach out if you want to collaborate on a project, have any questio
 
 ## 🛠️ My Skills
  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter) (https://matveyworks.vercel.app/)]
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://matveyworks.vercel.app/)
