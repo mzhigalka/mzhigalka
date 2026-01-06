@@ -8,7 +8,6 @@
 - **GitLab**: [mzhigalka](https://gitlab.com/mzhigalka) 
  
 ## 💬 Let's Connect  
-
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about technology! 
 
 ## 🛠️ My Skills
