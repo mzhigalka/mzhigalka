@@ -11,5 +11,4 @@
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about technology! 
 
 ## 🛠️ My Skills
- 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,typescript,nodejs,expressjs,nextjs,nestjs,tailwindcss,mongodb,redis,aws,git,github,gitlab,docker,bitbucket,bash,npm,postman,prisma,pug,redux,replit,threejs,vercel,vite,vscode&theme=dark)
